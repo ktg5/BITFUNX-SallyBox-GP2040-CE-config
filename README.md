@@ -1,5 +1,5 @@
 # BITFUNX-SallyBox-GP2040-CE-config
-This is repo for those that use the BITFUNX SallyBox & want to upgrade their device to the latest GP2040-CE release.
+This is repo for those that want to upgrade to the latest GP2040-CE release on their BITFUNX SallyBox.
 
 # Setup
 If you have any issues with any part of this guide, [please open up a issue](./issues) and I'll be happy to help.
